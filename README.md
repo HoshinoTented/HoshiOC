@@ -1,3 +1,3 @@
 # HoshiOC
 
-Hoshino OpenComputer Registry with A LOT OF BUGS
+Hoshino OpenComputer Repository with A LOT OF BUGS
